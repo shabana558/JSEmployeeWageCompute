@@ -5,4 +5,5 @@ const IS_ABSENT=0;
   } else{
   console.log("UC1-Employee is PRESENT.");
   }
+ //UC2
  
